@@ -1,0 +1,32 @@
+{
+    "name": "Next Lang",
+    "adress": "Calle principal 123",
+    "city": "Villa Carlos Paz",
+    "phone":[156734756, 154456234],
+    "courses": [
+        {
+            "title": "Html Couse",
+            "level": "Avanzado",
+            "duration": "2 meses",
+            "price": "0"
+        },
+        {
+            "title": "CSS Couse",
+            "level": "Intermedio",
+            "duration": "2 meses",
+            "price": "0"
+        },
+        {
+            "title": "Java",
+            "level": "Principiante",
+            "duration": "2 meses",
+            "price": "0"
+        },
+        {
+            "title": "Testing Manual",
+            "level": "Avanzado",
+            "duration": "3 meses",
+            "price": "0"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "name": "FusionCoders",
+    "number":"3",
+    "members":[
+        {
+            "name":"Ana",
+            "discord": "Ana",
+            "email":"anafebrero1995@gmail.com",
+            "github":"AnaSanchez95",
+            "skills":[
+                "HTML basico", 
+                "CSS basico", 
+                "Javascript basico", 
+                "Java muy basico"],
+            "country":"España"
+        },
+        {
+            "name":"Edgar",
+            "discord": "Edgar Javier Castiblanco",
+            "email":"javier55c@gmail.com",
+            "github":"Javicast55",
+            "skills":[
+                "HTML basico", 
+                "CSS basico", 
+                "Javascript basico", 
+                "Java basico", 
+                "Python basico"],
+            "country":"Portugal"
+        },
+        {
+            "name":"Gabriela",
+            "discord": "Gabriela712",
+            "email":"gabrielacoa712@gmail.com",
+            "github":"Gabriela712",
+            "skills":[
+                "HTML basico", 
+                "CSS basico", 
+                "Javascript basico", 
+                "Scratch basico"],
+            "country":"España"
+        },
+        {
+            "name":"Gisela",
+            "discord": "Gidandrea",
+            "email":"giseladandreok@gmail.com",
+            "github":"giselaDandrea",
+            "skills":[],
+            "country":"Argentina"
+        },
+        {
+            "name":"Francisco",
+            "discord": "Francisco",
+            "email":"pancho_alenda@yahoo.com",
+            "github":"panchoalenda",
+            "skills":[
+                "HTML", 
+                "CSS", 
+                "Javascript", 
+                "React", 
+                "Java"],
+            "country":"España"
+        },
+        {
+            "name":"",
+            "discord": "Shockwave",
+            "email":"shockwave@gmail.com",
+            "github":"Shockwaveds",
+            "skills":[
+                "Linux intermedio", 
+                "VSC basico", 
+                "HTML y CSS basico", 
+                "Phyton basico", 
+                "Java muy basico",
+                "AWS & Azure Basic",
+                "Nmap basic",
+                "English Level A2"
+                ],
+            "country":"Cibertron"
+        },
+        {
+            "name":"Gabriela",
+            "discord": "GabiC",
+            "email":"lic.gabrielacollazo137@gmail.com",
+            "github":"114259-COLLAZO-GABRIELA",
+            "skills":[
+                "HTML basico", 
+                "CSS basico", 
+                "Javascript basico", 
+                "Java intermedio",
+                "C#", "SQL Server", ".Net"],
+            "country":"Argentina"
+        },
+        
+        {
+            "name":"Alexander",
+            "discord": "Alexander",
+            "email":"alejandropastor1926@gmail.com",
+            "github":"",
+            "skills":[
+                "HTML basico", 
+                "CSS basico", 
+                "Java muy basico"],
+            "country":"España"
+        },
+        {
+            "name":"Alfredo",
+            "discord": "AlfredoEncina",
+            "email":"citywideinmobi@gmail.com",
+            "github":"Alff2027",
+            "skills":[
+                "FullStrack en Javascript", 
+                "Java POO avanzado"],
+            "country":"Argentina"
+        },
+        {
+            "name":"Sofia",
+            "discord": "SofiaRE",
+            "email":"aregareis@gmail.com",
+            "github":"SofiaReGareis",
+            "skills":[
+                "HTML", "CSS", "Javascript", 
+                "PHP", "SQL Server", "Java",
+                "C#", "ASP.NET"],
+            "country":"Argentina"
+        },
+        {
+            "name":"Melitza",
+            "discord": "Melitza",
+            "email":"melitza.ortiz.gomez@gmail.com",
+            "github":"Melitza-dev",
+            "skills":[
+                "HTML basico", 
+                "CSS basico", "Java muy basico"],
+            "country":"España"
+        },
+        {
+            "name":"Jeampierr",
+            "discord": "Jjimenezc",
+            "email":"jeampierrjimenez@gmail.com",
+            "github":"jeampierrjimenez",
+            "skills":[
+                "Phyton intermedio",
+                "HTML basico", "CSS basico", 
+                "Javascript basico"],
+            "country":"España"
+        },
+        {
+            "name":"Aydee",
+            "discord": "AydeeToledo",
+            "email":"aydeeysabeltoledo@gmail.com",
+            "github":"Aydee2000",
+            "skills":[
+                "HTML basico",
+                "CSS basico",
+                "Javascript basico",
+                "Java basico"
+            ],
+            "country":"Argentina"
+        },
+        {
+            "name":"Mecedes",
+            "discord": "MercyCroft",
+            "email":"araujorodriguez@gmail.com",
+            "github":"mercedessar",
+            "skills":[
+                "HTML", "CSS", "Javascript", 
+                "PHP", "Mysql"],
+            "country":"Venezuela"
+        },
+        {
+            "name":"Alisson.daw",
+            "discord": "Alisson",
+            "email":"daw.alisson@gmail.com",
+            "github":"alisson-he",
+            "skills":[
+                "HTML", "CSS", "Java",
+                "XSL", "XML", "JSON",
+                "Mysql basico"],
+            "country":"España"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Trivia de Preguntas y Respuestas",
+        "questions": [
+        {
+            "pregunta": "¿Porque se llama BUG a un error en software?",
+            "respuestas": "Porque el primer error fue por un bicho que se encontro en un servidor"
+        },
+        {
+            "pregunta": "El actual dueño de la empresa Facebook es Steve Paul Jobs",
+            "opciones":["verdad", "falso"],
+            "razon": "Falso, porque en realidad Steve Paul Jobs es el creador de Apple y el de facebook es Mark Elliot Zuckerberg "
+        },
+        {
+            "pregunta": "¿?",
+            "respuestas": ""
+        },
+        {
+            "pregunta": "¿?",
+            "respuestas": ""
+        },
+        {
+            "pregunta": "¿?",
+            "respuestas": ""
+        },
+        {
+            "pregunta": "¿?",
+            "respuestas": ""
+        }
+    ]
+}
