@@ -1,0 +1,7 @@
+{
+  "category": "Testing",
+  "question": "¿Cual fue el primer insecto que se encontro en un sofware?",
+  "options": ["Cucaracha", "Polilla", "Alacran"],
+  "answer": 1,
+  "explanation": "El primer bug (insecto o, en informática, fallo) fue encontrado en 1947, cuando una polilla quedó atrapada en un componente de la computadora electromecánica, Harvard Mark II.."
+}

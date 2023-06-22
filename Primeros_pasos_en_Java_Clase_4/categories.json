@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Cultura",
+    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+  },
+  {
+    "category": "Videojuegos",
+    "description": "Preguntas relacionadas con diversos tipos de generos, pesonajes y consolas ."
+  },
+  {
+    "category": "Arte",
+    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+  },
+  {
+    "category": "Programacion",
+    "description": "Preguntas relacionadas con leguajes de programacion, codigos y herramientas."
+  },
+  {
+    "category": "Historia",
+    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+  },
+  {
+    "category": "Testing",
+    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+  }
+]
