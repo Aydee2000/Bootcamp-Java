@@ -1,4 +1,4 @@
-package Ejercicios_de_Repaso_Clase_12;
+package Ejercicios_de_repaso_Clase_14;
 
 import java.util.Scanner;
 public class amigoInvisible {
@@ -8,6 +8,7 @@ public class amigoInvisible {
         computadora, escribir su nombre y recibir una indicación sobre a quién debe darle un regalo. El
         programa también debe limpiar la consola después de que cada participante haya visto su
         indicación. */
+
         jugarAlAmigoInvisible();
     }
 
